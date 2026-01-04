@@ -1,0 +1,8 @@
+# Ignore artifacts:
+node_modules
+package-lock.js
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
+package.json
+webpack.dev.js
